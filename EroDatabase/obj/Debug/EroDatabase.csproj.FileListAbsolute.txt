@@ -1,0 +1,14 @@
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\bin\Debug\EroDatabase.exe.config
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\bin\Debug\EroDatabase.exe
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\bin\Debug\EroDatabase.pdb
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\obj\Debug\EroDatabase.csprojResolveAssemblyReference.cache
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\obj\Debug\EroDatabase.eroDatabase.resources
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\obj\Debug\EroDatabase.Properties.Resources.resources
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\obj\Debug\EroDatabase.csproj.GenerateResource.Cache
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\obj\Debug\EroDatabase.exe
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\obj\Debug\EroDatabase.pdb
+c:\users\dvdlesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\obj\Debug\EroDatabase.ItemLayout.resources
+C:\Users\DVDLesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\bin\Debug\DB.mdf
+C:\Users\DVDLesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\bin\Debug\DB_log.ldf
+C:\Users\DVDLesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\bin\Debug\System.Data.SQLite.pdb
+C:\Users\DVDLesher\documents\visual studio 2013\Projects\EroDatabase\EroDatabase\obj\Debug\EroDatabase.GalleryForm.resources
